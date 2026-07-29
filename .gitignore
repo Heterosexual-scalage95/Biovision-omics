@@ -19,3 +19,11 @@ data/processed/*
 *.h5ad
 *.tif
 *.tiff
+*.egg-info/
+build/
+dist/
+*.egg-info/
+data/manifests/GSE292268_profile/modeling_metadata.csv.gz
+build/
+dist/
+*.egg-info/

@@ -1,0 +1,39 @@
+{
+  "total_cells": 107256,
+  "modeling_cells": 53080,
+  "slides": 2,
+  "fov_groups": 128,
+  "retained_classes": [
+    "Antibody-secreting B cells",
+    "CD3 alpha-beta T cells",
+    "Central venous LSECs",
+    "Cholangiocytes",
+    "Gamma-delta T cells",
+    "Hepatocytes",
+    "Inflammatory macrophages",
+    "Mature B cells",
+    "NK-like cells",
+    "Non-inflammatory macrophages",
+    "Periportal LSECs",
+    "Portal endothelial cells",
+    "Stellate cells"
+  ],
+  "morphology_features": [
+    "Area.um2",
+    "AspectRatio",
+    "Width",
+    "Height",
+    "Mean.PanCK",
+    "Max.PanCK",
+    "Mean.CK8.18",
+    "Max.CK8.18",
+    "Mean.Membrane",
+    "Max.Membrane",
+    "Mean.CD45",
+    "Max.CD45",
+    "Mean.DAPI",
+    "Max.DAPI"
+  ],
+  "excluded_unresolved_letter_labels": true,
+  "minimum_class_size": 200
+}

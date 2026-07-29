@@ -1,0 +1,10 @@
+{
+  "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE292nnn/GSE292268/suppl/GSE292268_RAW.tar",
+  "destination": "data\\raw\\GSE292268\\GSE292268_RAW.tar",
+  "downloaded_at_utc": "2026-07-29T18:17:05.477330+00:00",
+  "size_bytes": 1857843200,
+  "sha256": "e5373eebeebe71e6c605b4f7b8f7054a2128b3166b5504588249c71732f59ed3",
+  "etag": null,
+  "last_modified": "Wed, 20 Aug 2025 15:25:33 GMT",
+  "accession": "GSE292268"
+}
