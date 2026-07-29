@@ -1,11 +1,13 @@
 import argparse
-from datetime import datetime, timezone
 import json
-from pathlib import Path
 import re
 import time
+from datetime import datetime, timezone
+from pathlib import Path
+
 import requests
 from tqdm import tqdm
+
 from biovision_omics.checksums import sha256_file
 
 

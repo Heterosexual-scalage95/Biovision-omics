@@ -1,6 +1,6 @@
 import argparse
-from pathlib import Path
 import tarfile
+from pathlib import Path
 
 
 def safe_extract(archive: Path, output: Path) -> None:

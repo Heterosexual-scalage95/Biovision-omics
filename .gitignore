@@ -27,3 +27,7 @@ data/manifests/GSE292268_profile/modeling_metadata.csv.gz
 build/
 dist/
 *.egg-info/
+data/manifests/GSE292268_profile/modeling_metadata_slide_normalized.csv.gz
+data/manifests/GSE292268_profile/modeling_metadata_spatial.csv.gz
+data/manifests/GSE292268_profile/modeling_metadata_multimodal.csv.gz
+outputs/
