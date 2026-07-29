@@ -1,0 +1,10 @@
+datasets:
+  GSE292268:
+    source: NCBI GEO
+    accession: GSE292268
+    project_role: fibrosis-specific discovery and dataset audit
+    species: Homo sapiens
+    disease: MASLD with liver fibrosis
+    platform: NanoString CosMx Spatial Molecular Imager
+    supplementary_archive: GSE292268_RAW.tar
+    expected_url: https://ftp.ncbi.nlm.nih.gov/geo/series/GSE292nnn/GSE292268/suppl/GSE292268_RAW.tar
