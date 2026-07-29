@@ -1,4 +1,4 @@
-from scripts.download_geo import geo_range, archive_url
+from scripts.download_geo import archive_url, geo_range
 
 
 def test_geo_range():

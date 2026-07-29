@@ -1,6 +1,8 @@
-from pathlib import Path
 import json
+from pathlib import Path
+
 import pandas as pd
+
 from .checksums import sha256_file
 
 
@@ -34,8 +36,8 @@ def preview_table(path: Path):
         else:
             return None, None, None, None
         return len(frame), len(frame.columns), [str(c) for c in frame.columns], None
-    except Exception as exc:
-        return None, None, None, f"{type(exc).__name__}: {exc}"
+    except (OSError, ValueError, pd.errors.ParserError) as exc:
+    	return None, None, None, f"{type(exc).__name__}: {exc}"
 
 
 def inventory_directory(root: str | Path) -> pd.DataFrame:
